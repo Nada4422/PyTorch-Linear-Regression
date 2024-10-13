@@ -1,5 +1,5 @@
 
-# PyTorch Regression
+# PyTorch Linear Regression
 
 ## Objective
 
